@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ImageBundle/ImageBundle.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GetImageStaticLibrary/GetImageStaticLibrary.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:YYHWorkSpaceDemo/YYHWorkSpaceDemo.xcodeproj">
+   </FileRef>
+</Workspace>
